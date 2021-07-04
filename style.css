@@ -1,0 +1,9 @@
+.heading_div{
+    float: none;
+    color: black;
+    background-color:grey;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px lightgrey;
+    color:white;
+}
